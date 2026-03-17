@@ -1,0 +1,6 @@
+community_contributions/
+solutions/
+__pycache__/
+.DS_Store
+*.pyc
+.env
